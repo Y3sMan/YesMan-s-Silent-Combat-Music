@@ -1,0 +1,7 @@
+if combat_themes then
+    combat_themes = {
+        {
+            "music\\combat\\silent"
+        }
+    }
+end
